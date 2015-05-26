@@ -15,4 +15,4 @@ Everything else, such as django and other database tools will be installed and m
 
 ## That's it
 You should be good to go from there.
-I know that this creates lots of nested directories, but it does guarantee that everything works properly without 
+I know that this creates lots of nested directories, but it does guarantee that everything works properly without having to sync giant libraries over git.
